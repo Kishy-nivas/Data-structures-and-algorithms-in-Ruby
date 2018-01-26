@@ -1,4 +1,4 @@
-require_relative  'LinkedList'
+require_relative  'core-ds/LinkedList'
 
 
 menu  = "1.Add Beign \n2.Add End  \n3.Delete \n4 Display \n5 Quit "
